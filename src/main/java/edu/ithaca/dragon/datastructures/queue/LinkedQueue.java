@@ -51,4 +51,6 @@ public class LinkedQueue<T> implements Queue<T>{
         front = null;
     }
     
+    public static void main(String[] args) {
+    }
 }
